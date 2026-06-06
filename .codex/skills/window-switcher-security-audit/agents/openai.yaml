@@ -1,0 +1,4 @@
+interface:
+  display_name: "Window Switcher Security Audit"
+  short_description: "Audit this Windows tray utility safely"
+  default_prompt: "Use $window-switcher-security-audit to audit this repository for dependency, installer, CI, and Windows API security risks."
